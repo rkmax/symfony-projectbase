@@ -1,0 +1,9 @@
+JulianInforveBundle:
+    resource: "@JulianInforveBundle/Controller/"
+    type:     annotation
+    prefix:   /inforve
+
+# Internal routing configuration to handle ESI
+#_internal:
+#   resource: "@FrameworkBundle/Resources/config/routing/internal.xml"
+#   prefix:   /_internal

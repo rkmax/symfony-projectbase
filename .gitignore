@@ -1,0 +1,10 @@
+/web/bundles/
+/web/uploads/
+/app/bootstrap*
+/app/cache/*
+/app/logs/*
+/vendor/
+Resources/files/*
+/app/config/parameters.ini
+!*.gitkeep
+inforve2.sublime-workspace
