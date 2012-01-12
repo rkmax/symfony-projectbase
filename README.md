@@ -10,6 +10,8 @@ Symfony 2 configurado listo para trabajar tiene configurado algunas dependiencia
 - DoctrineFixtures
 - BCCExtraTools para la realizacion de sitios multilenguaje
 
+La carpeta `Acme` fue borrada por completo.
+
 Symfony Standard Edition
 ========================
 
