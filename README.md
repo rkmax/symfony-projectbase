@@ -1,10 +1,13 @@
-Symfony Project base
-====================
 
-Symfony 2 configurado listo para trabajar tiene configurado algunas dependiencias:
+Symfony 2 - Project base
+========================
 
 - Symfony 2.0.9
 - Twig 1.4.0
+
+Symfony 2 configurado listo para trabajar tiene configurado algunas caracteristicas
+realmente utiles:
+
 - Behat Framework BDD
 - Mink Extension de Behat para realizar pruebas en diferentes navegadores web
 - DoctrineFixtures
