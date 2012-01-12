@@ -11,7 +11,7 @@ realmente utiles:
 - Behat Framework BDD
 - Mink Extension de Behat para realizar pruebas en diferentes navegadores web
 - DoctrineFixtures
-- BCCExtraTools para la realizacion de sitios multilenguaje
+- BCCExtraTools
 
 La carpeta `Acme` fue borrada por completo.
 
