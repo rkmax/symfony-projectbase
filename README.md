@@ -1,3 +1,15 @@
+Symfony Project base
+====================
+
+Symfony 2 configurado listo para trabajar tiene configurado algunas dependiencias:
+
+- Symfony 2.0.9
+- Twig 1.4.0
+- Behat Framework BDD
+- Mink Extension de Behat para realizar pruebas en diferentes navegadores web
+- DoctrineFixtures
+- BCCExtraTools para la realizacion de sitios multilenguaje
+
 Symfony Standard Edition
 ========================
 
@@ -119,7 +131,7 @@ playing with it, you can remove it by following these steps:
 What's inside?
 ---------------
 The Symfony Standard Edition comes pre-configured with the following bundles:
-	
+
 * **FrameworkBundle** - The core Symfony framework bundle
 * **SensioFrameworkExtraBundle** - Adds several enhancements, including template
   and routing annotation capability ([documentation](http://symfony.com/doc/current/bundles/SensioFrameworkExtraBundle/index.html))
